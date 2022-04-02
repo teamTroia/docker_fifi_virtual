@@ -1,2 +1,2 @@
 git clone https://github.com/teamTroia/fifi_virtual
-docker build -t fifi_image -f ./Dockerfile .
+docker build -t troia_image -f ./Dockerfile .
